@@ -55,7 +55,7 @@ pip install pandas matplotlib seaborn scikit-learn
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/institutional-performance-analysis.git
+    git clone [https://github.com/maria-saif20/Exploratory-and-Predictive-Analysis-of-BISE-FSC.git]
     ```
 2. **Load the Dataset**: Place `Institutional Result of Board Exams.csv` in the project directory.
 3. **Run the Analysis**: Open `analysis.ipynb` in Jupyter Notebook and execute each cell to perform EDA and clustering analysis.
